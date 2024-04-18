@@ -12,7 +12,7 @@ I can work in teams using branching on GitHub, and I also consider the terminal 
 
 ## Stack I work with:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="https://static-00.iconduck.com/assets.00/java-original-wordmark-icon-276x512-bacgskru.png" alt="Java" width="100" style="margin-bottom: 10px;" />
+  <img src="https://seeklogo.com/images/J/java-logo-CE0198242E-seeklogo.com.png" alt="Java" width="100" style="margin-bottom: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" alt="Spring Boot" width="100" style="margin-bottom: 10px;" />
   <img src="https://www.dariawan.com/media/images/tech-spring-security.width-400.png" alt="Spring Security" width="100" style="margin-bottom: 10px;" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hibernate_logo_icon_169034.png" alt="Hibernate" width="100" style="margin-bottom: 10px;" />
