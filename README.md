@@ -13,7 +13,22 @@ I can work in teams using branching on GitHub, and I also consider the terminal 
 ## Stack I work with:
 Stack I work with:
 
-<table style="border-collapse: collapse;">
+<style>
+  table {
+    border-spacing: 20px;
+  }
+
+  td {
+    padding: 0;
+  }
+
+  img {
+    display: block;
+    width: 100px;
+  }
+</style>
+
+<table>
   <tr>
     <td><img src="https://seeklogo.com/images/J/java-logo-CE0198242E-seeklogo.com.png" alt="Java" width="100"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" alt="Spring Boot" width="100"></td>
