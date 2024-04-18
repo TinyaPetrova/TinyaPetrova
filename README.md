@@ -1,4 +1,5 @@
-# Buenas! My name is Tinya, I'm backend Java developer based in sunny Barcelona ☀️
+# Buenas! My name is Tinya
+## I'm backend Java developer based in sunny Barcelona ☀️
 
 I have experience creating backend part of applications, as well as designing, implementing and optimizing databases. 
 
