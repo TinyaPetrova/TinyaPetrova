@@ -3,7 +3,7 @@
 
 I love to do invisible, but very important work. In my daily life, I see Postman and Swagger more often than beautiful website interfaces, and my dreams at night consist of database rows and Java and Spring Boot code. I can work in team using branching on GitHub, and I also consider the terminal my teammate 😁
 
-## Tap to contact me via LinkedIn
+<b>Tap to contact me via LinkedIn</b>
 
 <p align="center">
   <img src="https://seeklogo.com/images/J/java-logo-CE0198242E-seeklogo.com.png" alt="Java" width="100">
