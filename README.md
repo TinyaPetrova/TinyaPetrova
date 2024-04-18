@@ -20,6 +20,6 @@ I love to do invisible, but very important work. In my daily life, I see Postman
   <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" alt="Docker" width="100">&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman" width="100">&nbsp;&nbsp;
   <img src="https://miro.medium.com/v2/resize:fit:818/1*zc-LgogGtr7fFHF9e1M8wA.png" alt="Swagger" width="100">&nbsp;&nbsp;
-  <img src="https://www.freeiconspng.com/thumbs/linux-icon/linux-icon-19.png" alt="Linux" width="100">&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/L/linux-logo-3793382FC8-seeklogo.com.png" alt="Linux" width="100">&nbsp;&nbsp;
 </p>
 
