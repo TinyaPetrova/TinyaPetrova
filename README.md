@@ -49,4 +49,3 @@ I can work in teams using branching on GitHub, and I also consider the terminal 
     <img src="https://www.freeiconspng.com/thumbs/linux-icon/linux-icon-19.png" alt="Linux" width="100%">
   </div>
 </div>
-</table>
