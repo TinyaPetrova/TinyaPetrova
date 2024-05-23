@@ -1,5 +1,5 @@
 ## Buenas! 👋🏻 My name is Tinya
-### I'm backend Java developer based in sunny Barcelona ☀️
+### I'm backend Java developer based in Barcelona ☀️
 
 I love to do <i>invisible</i>, but <i>very important</i> work. In my daily life, I see Postman and Swagger more often than beautiful website interfaces, and my dreams at night consist of database rows and Java and Spring Boot code. I can work in team using branching on GitHub, and I also consider the terminal <b>my teammate</b> 😁
 
