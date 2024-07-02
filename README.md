@@ -1,7 +1,7 @@
 ## Buenas! 👋🏻 My name is Tinya
 ### I'm backend Java developer based in Barcelona ☀️
 
-I love to do <i>invisible</i>, but <i>very important</i> work. I see Postman and Swagger more often than beautiful website interfaces, and instead of books I usually read database rows and Java and Spring Boot code. I can work in team using branching on GitHub, and I also consider the terminal <b>my teammate</b> 😁
+I love to do <i>invisible</i>, but <i>very important</i> work. I see Postman and Swagger more often than beautiful website interfaces, and instead of books I usually read database rows and Java and Spring Boot code. I can work in team using branching on GitHub & consider the terminal <b>my teammate</b> 😁
 
 <b>👉🏻 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/ustiniapetrova/)</b>
 
