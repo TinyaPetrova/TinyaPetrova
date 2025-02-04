@@ -9,7 +9,7 @@ I love to do <i>invisible</i>, but <i>very important</i> work. I see Postman and
   <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-svg-vector.svg" alt="Java" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" alt="Spring Boot" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.dariawan.com/media/images/tech-spring-security.width-400.png" alt="Spring Security" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hibernate_logo_icon_169034.png" alt="Hibernate" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="Hibernate" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/MariaDB_colour_logo.svg/2560px-MariaDB_colour_logo.svg.png" alt="MariaDB" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
