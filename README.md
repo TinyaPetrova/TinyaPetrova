@@ -6,7 +6,7 @@ I love to do <i>invisible</i>, but <i>very important</i> work. I see Postman and
 <b>👉🏻 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/ustiniapetrova/)</b>
 
 <p align="center">
-  <img src="https://seeklogo.com/images/J/java-logo-CE0198242E-seeklogo.com.png" alt="Java" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-svg-vector.svg" alt="Java" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png" alt="Spring Boot" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.dariawan.com/media/images/tech-spring-security.width-400.png" alt="Spring Security" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hibernate_logo_icon_169034.png" alt="Hibernate" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,6 +20,6 @@ I love to do <i>invisible</i>, but <i>very important</i> work. I see Postman and
   <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" alt="Docker" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://miro.medium.com/v2/resize:fit:818/1*zc-LgogGtr7fFHF9e1M8wA.png" alt="Swagger" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/L/linux-logo-3793382FC8-seeklogo.com.png" alt="Linux" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://images.vexels.com/media/users/3/140692/isolated/lists/72d1f12edf758d24f5b6db73bac4f297-linux-logo.png" alt="Linux" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
