@@ -15,7 +15,7 @@ I love to do <i>invisible</i>, but <i>very important</i> work. I see Postman and
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1KIy2_Nb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2400/1%2AH-IQgGmDCiOcjRsFe7TzdA.png" alt="Maven" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1200px-Apache_Maven_logo.svg.png" alt="Maven" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="GIT" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" alt="Docker" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
