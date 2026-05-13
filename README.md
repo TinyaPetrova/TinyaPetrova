@@ -15,7 +15,7 @@ I see Postman and Swagger more often than beautiful website interfaces, and inst
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/3840px-Apache_Maven_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Maven" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://maven.apache.org/images/logos/MavenLogoLeafSmall.png" alt="Maven" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="GIT" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" alt="Docker" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman" width="100">&nbsp;&nbsp;&nbsp;&nbsp;
